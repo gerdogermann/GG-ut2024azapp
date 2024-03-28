@@ -20,7 +20,7 @@ main > h1 {
   font-size: 3.5em;
 }
 .img-container {
-    width: 100%; /* Or set a specific width */
+    width: 50%; /* Or set a specific width */
     max-width: 800px; /* Optional: Restrict the image's maximum width */
 }
 
